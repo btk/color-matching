@@ -32,8 +32,9 @@
             "logo": "i18n/tr/m-color-s.png",
             "icon": "i18n/tr/m-color-b.png",
             "images": [
-              "i18n/tr/cc-src.png",
-              "i18n/tr/cc-src2.png"
+              "i18n/tr/cm-src.png",
+              "i18n/tr/cm-src2.png",
+              "i18n/tr/cm-src3.png"
             ],
             "assets": [
                 "img/tr",
