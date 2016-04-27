@@ -1,15 +1,15 @@
 {
     "unique_name": "color-match",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "main": "index.html",
-    "licence": "GPL",
+    "licence": "GPL-3.0",
     "languages": [
         "tr"
     ],
     "default_language": "tr",
     "developer_name": "Otsimo",
-    "homepage": "https://github.com/otsimo/memory-game-colors",
-    "repository": "git@github.com:otsimo/memory-game-colors.git",
+    "homepage": "https://github.com/otsimogames/color-match",
+    "repository": "https://github.com/otsimogames/color-match.git",
     "authors": [
         {
             "name": "Otsimo",
@@ -32,9 +32,9 @@
             "logo": "i18n/tr/m-color-s.png",
             "icon": "i18n/tr/m-color-b.png",
             "images": [
-              "i18n/tr/cm-src.png",
-              "i18n/tr/cm-src2.png",
-              "i18n/tr/cm-src3.png"
+                "i18n/tr/cm-src.png",
+                "i18n/tr/cm-src2.png",
+                "i18n/tr/cm-src3.png"
             ],
             "assets": [
                 "img/tr",
