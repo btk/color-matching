@@ -247,6 +247,7 @@
         "add_outline": true,
         "outline_image": "color_outline",
         "session_step": 10,
+        "step_score": 5,
         "question_from": "items",
         "answers_from": "items",
         "hint_type": "hand",
