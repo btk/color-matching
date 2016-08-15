@@ -1,10 +1,11 @@
 {
     "unique_name": "color-match",
-    "version": "1.4.1",
+    "version": "1.5.2",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
-        "tr"
+        "tr",
+        "en"
     ],
     "default_language": "tr",
     "developer_name": "Otsimo",
@@ -39,6 +40,27 @@
             "assets": [
                 "img/tr",
                 "audio/tr"
+            ]
+        },
+        {
+            "language": "en",
+            "visible_name": "Renkleri Eşleştir",
+            "summary": "Kolayca renkleri öğrenmek için eşleştirme oyunudur.",
+            "description": "Çocuklar seçenekler arasından doğru rengi eşleyerek renkleri kolayca öğrenir ve tekrar edebilirler. Renkleri hiç bilmeyen veya biraz bilen çocuklar için özel olarak geliştirilmiştir.",
+            "keywords": [
+                "çizim",
+                "harf"
+            ],
+            "logo": "i18n/en/m-color-s.png",
+            "icon": "i18n/en/m-color-b-en.png",
+            "images": [
+                "i18n/en/cm-src.png",
+                "i18n/en/cm-src2.png",
+                "i18n/en/cm-src3.png"
+            ],
+            "assets": [
+                "img/en",
+                "audio/en"
             ]
         }
     ],
