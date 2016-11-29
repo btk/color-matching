@@ -1,13 +1,13 @@
 {
     "unique_name": "color-match",
-    "version": "1.6.4",
+    "version": "1.5.9",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
         "tr",
         "en"
     ],
-    "default_language": "tr",
+    "default_language": "en",
     "developer_name": "Otsimo",
     "homepage": "https://github.com/otsimogames/color-match",
     "repository": "https://github.com/otsimogames/color-match.git",
