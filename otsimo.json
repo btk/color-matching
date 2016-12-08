@@ -1,6 +1,6 @@
 {
     "unique_name": "color-match",
-    "version": "1.6.4",
+    "version": "1.6.5",
     "main": "index.html",
     "licence": "GPL-3.0",
     "languages": [
@@ -64,5 +64,6 @@
             ]
         }
     ],
-    "loading_color": "#5dcef5"
+    "loading_color": "#5dcef5",
+    "ab_test": ""
 }
